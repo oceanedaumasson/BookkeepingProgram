@@ -1,9 +1,4 @@
 /**
- * Written by Oceane Daumasson - 40275138
- * COMP249
- * Assignment 2
- * Due November 16
- * 
  * This program goes through a collection of book records using three main methods.
  * In part 1, it reads from multiple text files and checks each file's records for syntax errors.
  * If there is an error, it writes the record into a syntax error file. If not, it writes it to a corresponding genre file.
